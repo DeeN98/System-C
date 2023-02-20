@@ -1,4 +1,0 @@
-﻿  main.cpp
-E:\Masters_study\SystemC and Virtual Prototyping WS 2223\exercises\portconnection\processor.h(170,26): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
-E:\Masters_study\SystemC and Virtual Prototyping WS 2223\exercises\portconnection\processor.h(172,12): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
-  portconnection.vcxproj -> E:\Masters_study\SystemC and Virtual Prototyping WS 2223\exercises\portconnection\x64\Debug\portconnection.exe
