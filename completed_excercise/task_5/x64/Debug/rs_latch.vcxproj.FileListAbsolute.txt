@@ -1,0 +1,1 @@
+E:\Masters_study\SystemC and Virtual Prototyping WS 2223\exercises\rs_latch\x64\Debug\rs_latch.exe
